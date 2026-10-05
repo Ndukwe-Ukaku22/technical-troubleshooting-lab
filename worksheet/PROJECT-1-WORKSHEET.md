@@ -271,3 +271,23 @@ This project reinforced the importance of approaching technical problems systema
 The practical scenarios showed how asking the right questions, isolating the scope of a problem, selecting appropriate diagnostic tools, and interpreting test results can progressively narrow down possible causes.
 
 A major lesson from the project was that a successful troubleshooting process does not always mean immediately identifying a single root cause. In some cases, the most important outcome is accurately isolating the affected layer or component and determining the appropriate next step.
+
+## Evidence
+
+The following screenshots provide supporting evidence for the network troubleshooting tests documented in this project.
+
+### Network Configuration
+
+- `ipconfig.png` – Shows the Windows network configuration, including the active Wi-Fi adapter and network settings.
+
+### Local Network Connectivity
+
+- `gateway-ping.png` – Shows a successful ping to the Default Gateway with 0% packet loss.
+
+### External IP Connectivity
+
+- `external-ip-ping.png` – Shows a successful ping to an external IP address with 0% packet loss.
+
+### DNS Resolution
+
+- `dns-ping.png` – Shows a successful domain-name ping demonstrating DNS resolution and connectivity to the resolved destination.
